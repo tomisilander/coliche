@@ -1,2 +1,0 @@
-include README.md coliche.py setup.py
-recursive-include test *
